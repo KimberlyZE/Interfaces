@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\bin\Debug\Interfaz1.exe.config
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\bin\Debug\Interfaz1.exe
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\bin\Debug\Interfaz1.pdb
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\obj\Debug\Interfaz1.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\obj\Debug\Interfaz1.Form1.resources
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\obj\Debug\Interfaz1.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\obj\Debug\Interfaz1.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\obj\Debug\Interfaz1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\obj\Debug\Interfaz1.exe
+C:\Users\Administrador\source\repos\Interfaz1\Interfaz1\obj\Debug\Interfaz1.pdb

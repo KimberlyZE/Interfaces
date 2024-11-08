@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\bin\Debug\Interfaz2.exe.config
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\bin\Debug\Interfaz2.exe
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\bin\Debug\Interfaz2.pdb
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\obj\Debug\Interfaz2.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\obj\Debug\Interfaz2.Bonificaciones.resources
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\obj\Debug\Interfaz2.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\obj\Debug\Interfaz2.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\obj\Debug\Interfaz2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\obj\Debug\Interfaz2.exe
+C:\Users\Administrador\source\repos\Interfaz2\Interfaz2\obj\Debug\Interfaz2.pdb
